@@ -3,6 +3,10 @@
 
 recent:///1ba0e6be3e5cb74ba0a965c369518454
 
+<img width="1920" height="1080" alt="Screenshot From 2025-12-28 14-23-58" src="https://github.com/user-attachments/assets/4cc39e0c-bb4d-4b82-8bdd-4f5a27abd5c0" />
+
+
+
 
 
 
@@ -319,11 +323,17 @@ educational inspection
 
 research documentation
 
+
+
+
 10. Security & Deployment Philosophy
 
 PeteAI Q-Net:
 
 defaults to localhost
+
+
+
 
 does not phone home
 
