@@ -1,6 +1,5 @@
 <img width="1920" height="1080" alt="Screenshot From 2025-12-28 14-23-58" src="https://github.com/user-attachments/assets/a76d2328-f968-4904-96df-7d0ee2263dbf" />
 
-![Uploading Screenshot From 2025-12-28 14-25-43.png…]()
 
 This White Paper: Requested by Peter V. Daniels  produced by Chat GPT 5.2 through some direction from me the writer Peter V. Daniels into the the project evolution and current it's current state. (Ref. Date: 12-28-2025)
 PeteAI Q-Net
